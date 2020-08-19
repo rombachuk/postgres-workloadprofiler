@@ -1,0 +1,8 @@
+dbname		yourdb
+user		dbuser
+password	password
+host		server
+port		5432
+sslmode		verify-full
+sslrootcertname	dashboardcertificate.info
+sslrootcertpath resources/certificates	
