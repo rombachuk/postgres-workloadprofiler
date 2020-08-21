@@ -1,5 +1,5 @@
 import os
-from helpers.cbutils import get_installbase
+from helpers.pgwputils import get_installbase
 
 class  CommandDefaults:
 
